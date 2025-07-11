@@ -202,6 +202,36 @@ header h1{
     color: #B3B3B3;
 }
 
+/* cta section */
+.cta_section{
+    padding-top: 137px;
+}
+.cta_inner{
+    padding: 71px 150px;
+    background: #FFFFFF;
+    border-radius: 14px;
+    text-align: center;
+}
+.cta_inner h2{
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 120%;
+    color: #000000;
+}
+.cta_inner p{
+    font-family: "Inter", sans-serif;
+    color: rgba(0, 0, 0, 0.5);
+    margin: 20px 0;
+}
+.cta_inner .button{
+    font-weight: 500;
+}
+.cta_inner img{
+    width: 100%;
+    border-radius: 48px;
+    margin-top: 20px;
+}
+
 /* footer */
 footer{
     background-color: #fff;
